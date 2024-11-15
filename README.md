@@ -37,6 +37,3 @@ This GitHub repository showcases the Goibibo Flight Data Scraping and SQL Analys
 - Web Scraping: Listly tool
 - Data Cleaning: Microsoft Excel
 - SQL Queries: MySQL (or relevant SQL database)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
