@@ -33,7 +33,3 @@ This project demonstrates my proficiency in web scraping, data cleaning, and SQL
 ## Repository Purpose
 This GitHub repository showcases the Goibibo Flight Data Scraping and SQL Analysis project. It serves as an example of my data manipulation, cleaning, and analysis skills, providing potential employers and collaborators with a tangible demonstration of my capabilities.
 
-## Technologies Used
-- Web Scraping: Listly tool
-- Data Cleaning: Microsoft Excel
-- SQL Queries: MySQL (or relevant SQL database)
